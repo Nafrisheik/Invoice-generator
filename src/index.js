@@ -1,14 +1,11 @@
-import React, { Fragment, Component } from "react";
-import ReactDOM, { render } from "react-dom";
+import React from "react";
+import ReactDOM from "react-dom";
 import 'bootstrap/dist/js/bootstrap.js';
 
 
 import {
   BrowserRouter as Router,
-  Route,
-  Switch,
-  Link,
-  Redirect,
+  Route
 } from "react-router-dom";
 import InputField from "./register";
 import Login from "./login";
