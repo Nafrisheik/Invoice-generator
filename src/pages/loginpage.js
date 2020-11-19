@@ -61,7 +61,7 @@ const Login = (props) => {
       </FormGroup>     
       <Button type="submit">Submit</Button>
     </Form><br></br>
-    <Button color="secondary" href="/pages/SignUppage">Sign up</Button>
+    <Button color="secondary" href="/signup">Sign up</Button>
     <br></br><br></br>
     <Button color="primary" href="/pages/forgotPass">Forgot Password</Button>
     </div>      

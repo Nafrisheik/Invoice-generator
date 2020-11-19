@@ -67,7 +67,7 @@ const Signup = (props) => {
         <Col md={6}>
         <FormGroup>
             <Label for="lname">Lastname</Label>
-            <Input type="text" name="lname" id="lname" value={lname} onChange={handleChange1} placeholder="Enter lastnam" />
+            <Input type="text" name="lname" id="lname" value={lname} onChange={handleChange1} placeholder="Enter lastname" />
           </FormGroup>
         </Col>
       </Row>       
