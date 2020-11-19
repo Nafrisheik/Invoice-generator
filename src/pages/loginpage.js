@@ -1,6 +1,5 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import { Button, Form, FormGroup, Label, Input } from 'reactstrap';
-import {Link} from "react-router-dom";
 import { Redirect } from "react-router-dom";
 import routes from "../routes"
 
